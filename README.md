@@ -5,7 +5,7 @@ Zhvillimi i aplikacionit që mundëson që fajllat me ekstension .doc, .docx, .x
 ## Teknologjia e përdorur
 
 - Sistemi Operativ - Windows 10 Pro
-- Gjuha Programuese - C#
+- Gjuha Programuese - C# 
 
 ## Përshkrimi i detyrës
 
@@ -26,8 +26,7 @@ Transferimi i të dhënave në mënyrë të besueshme dhe efikase.
 
 Fillojmë një lidhje me serverin FTP me të cilin duam të hapim një lidhje komunikimi.
 > `FtpWebRequest request = (FtpWebRequest)WebRequest.Create(new Uri(string.Format("{0}/{1}", Server, Filename)))` <br />
-> 
-Pas lidhjes me server shkruajme edhe emrin të përdoruesit dhe fjalëkalimin me te cilat kemi krijuar FTP serverin dhe përpiqet të vërtetojë sesionin tonë. Nëse kredencialet tona verifikohen, ne kemi hyrë në server dhe mund të fillojmë të dërgojmë më shumë komanda, nëse jo, një kundërshtim "error_perm" do të shfaqet.
+> Pas lidhjes me server shkruajme edhe emrin të përdoruesit dhe fjalëkalimin me te cilat kemi krijuar FTP serverin dhe përpiqet të vërtetojë sesionin tonë. Nëse kredencialet tona verifikohen, ne kemi hyrë në server dhe mund të fillojmë të dërgojmë më shumë komanda, nëse jo, një kundërshtim "error_perm" do të shfaqet.
 > ` request.Credentials = new NetworkCredential(Username, Password)`< /br>
 
 ### Shkarkimi i skedarëve
