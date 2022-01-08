@@ -10,7 +10,6 @@ Zhvillimi i aplikacionit që mundëson që fajllat me ekstension .doc, .docx, .x
 ## Përshkrimi i detyrës
 
 Në këtë detyrë është treguar si të përdorim FTP me C# për shkëmbimin e skedareve nga një folder i caktuar në një FTP Server përmes ftpwebrequest.
-
 Duke shfrytëzuar Windows Forms App(.Net Framework) fillimisht kemi krijuar formën pastaj për secilën pjesë edhe kodin përkatës.
 
 ## File Transfer Protocol (FTP) 
