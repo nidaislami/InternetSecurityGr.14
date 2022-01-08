@@ -29,3 +29,7 @@ Fillojmë një lidhje me serverin FTP me të cilin duam të hapim një lidhje ko
 > 
 Pas lidhjes me server shkruajme edhe emrin të përdoruesit dhe fjalëkalimin me te cilat kemi krijuar FTP serverin dhe përpiqet të vërtetojë sesionin tonë. Nëse kredencialet tona verifikohen, ne kemi hyrë në server dhe mund të fillojmë të dërgojmë më shumë komanda, nëse jo, një kundërshtim "error_perm" do të shfaqet.
 > ` request.Credentials = new NetworkCredential(Username, Password)`< /br>
+
+### Shkarkimi i skedarëve
+
+### Ngarkimi i skedarëve
