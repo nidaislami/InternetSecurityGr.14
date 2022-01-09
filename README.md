@@ -22,7 +22,7 @@ Frymëzimi i përdorimit direkt apo indirekt të remote computer (kompjuterëve 
 Mbrojtja e një përdoruesi nga variacionet e sistemeve të ruajtjes së skedave mes hostëve të ndryshëm.
 Transferimi i të dhënave në mënyrë të besueshme dhe efikase.
 
-## Puna me FTP dhe Forms në C#
+## Puna me FTP në C#
 
 Fillojmë një lidhje me serverin FTP me të cilin duam të hapim një lidhje komunikimi.
 
