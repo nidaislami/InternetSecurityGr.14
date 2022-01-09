@@ -52,9 +52,9 @@ Shkarkimi i skedarëve nga një server FTP përfshin metodën:
 
  ### Hapja e FTP serverit në Browser
  
- ![alt-text](README/5.PNG) <br/> Fig.4 Kyçja në FTP Server përmes kredencialeve (username, password)
+ ![alt-text-4](README/5.PNG) <br/> Fig.4 Kyçja në FTP Server përmes kredencialeve (username, password)
 
- ![alt-text](README/6.PNG) <br/> Fig.5 Paraqitja e të dhënave të ngarkuara dhe të shkarkuara në FTP Server
+ ![alt-text-5](README/6.PNG) <br/> Fig.5 Paraqitja e të dhënave të ngarkuara dhe të shkarkuara në FTP Server
  
  ### Kujdes!
 
