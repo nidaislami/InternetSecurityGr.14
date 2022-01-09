@@ -33,9 +33,7 @@ Pas lidhjes me server shkruajme edhe emrin e përdoruesit dhe fjalëkalimin me t
 > ` request.Credentials = new NetworkCredential(Username, Password)`
 
 ![alt-text-1](README/2.PNG)
-
-          Fig.1 Kyçja në FTP Server
-
+Fig.1 Kyçja në FTP Server
 
 ### Ngarkimi i skedarëve
 
@@ -44,6 +42,7 @@ Ngarkimi i skedarëve bëhet me metodën:
 > ` request.Method = WebRequestMethods.Ftp.UploadFile` <br />
 
 ![alt-text-3](README/3.PNG)
+Fig.2 Ngarkimi i të dhënave në FTP Server
 
 ### Shkarkimi i skedarëve
 
@@ -52,12 +51,15 @@ Shkarkimi i skedarëve nga një server FTP përfshin metodën:
 > ` request.Method = WebRequestMethods.Ftp.DownloadFile ` <br />
 
 ![alt-text-2](README/4.PNG)
+Fig.3 Shkarkimi i të dhënave në FTP Server
 
  ### Hapja e FTP serverit në Browser
  
  ![alt-text](README/5.PNG)
+ Fig.4 Kyçja në FTP Server përmes kredencialeve (username, password)
 
  ![alt-text](README/6.PNG)
+ Fig.5 Paraqitja e të dhënave të ngarkuara dhe të shkarkuara në FTP Server
  
  ## Anëtarët
 
