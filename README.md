@@ -33,6 +33,7 @@ Pas lidhjes me server shkruajme edhe emrin e përdoruesit dhe fjalëkalimin me t
 > ` request.Credentials = new NetworkCredential(Username, Password)`
 
 ![alt-text-1](README/2.PNG)
+
 Fig.1 Kyçja në FTP Server
 
 ### Ngarkimi i skedarëve
