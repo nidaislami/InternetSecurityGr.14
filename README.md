@@ -61,6 +61,14 @@ Fig.3 Shkarkimi i të dhënave në FTP Server
  ![alt-text](README/6.PNG)
  Fig.5 Paraqitja e të dhënave të ngarkuara dhe të shkarkuara në FTP Server
  
+ ### Kujdes!
+
+Është e rëndësishme të theksohet se ndërsa FTP është mjaft i sigurt vetë, ai nuk përdoret zakonisht për të transferuar informacione të ndjeshme; nëse transferoni diçka të tillë, atëherë duhet të shikoni për mundësi më të sigurta si SFTP (Secure FTP) ose SSH (Secure Shell). Këto janë protokollet më të përdorura për trajtimin e transmetimit të të dhënave të ndjeshme.
+
+### Përfundim
+
+Në këtë raport, ne diskutuam se çfarë është FTP, si funksionon, si të ngarkojmë dhe shkarkojmë të dhënat në FTP Server nga një FTP Client.
+ 
  ## Anëtarët
 
 [Laura Gashi](https://github.com/LauraGashi)
