@@ -72,5 +72,12 @@ Në këtë raport, ne diskutuam se çfarë është FTP, si funksionon, si të ng
 
 [Nida Islami](https://github.com/nidaislami)
 
+## Profesorët
+
+- Prof. Dr. Blerim REXHA
+- PhD. c Mërgim HOTI
+
+Janar, 2022
+
 
 
